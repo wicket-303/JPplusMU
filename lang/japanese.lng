@@ -73,7 +73,7 @@ JGR_63:63系 {WHITE}(電車){BLACK}
 JNR_101 :101系 {WHITE}(電車){BLACK}
 JNR_103 :101/103系 {WHITE}(電車){BLACK}
 JNR_201 :201系 {WHITE}(電車){BLACK}
-JNR_205 :206系 {WHITE}(電車){BLACK}
+JNR_205 :205系 {WHITE}(電車){BLACK}
 JNR_207900  :207系 900番台 {WHITE}(電車){BLACK}
 
 JNR_70 :70系 {WHITE}(電車){BLACK}
@@ -97,6 +97,8 @@ JNR_80 :80系 {WHITE}(電車){BLACK}
 JNR_165 :165/169系 {WHITE}(電車){BLACK}
 
 JNR_181 :151/161/181系 {WHITE}(電車){BLACK}
+
+JNR_381 :381系 {WHITE}(電車){BLACK}
 
 JNR_485:481/483/485/489系 {WHITE}(電車){BLACK}
 
@@ -762,6 +764,10 @@ JNR_165_DESC  :{BLACK}軌間:{GOLD} 狭軌 (3ft6in/​1,067mm){}{BLACK}運用種
 
 # 181 Series
 JNR_181_DESC  :{BLACK}軌間:{GOLD} 狭軌 (3ft6in/​1,067mm){}{BLACK}運用種別: {RED}特急/直流{}{}{BLACK}所属会社: {WHITE}国鉄{}{BLACK}塗装: {GOLD}各種 {GREEN}(換装可能){}
+
+
+# 381 Series
+JNR_381_DESC  :{BLACK}軌間:{GOLD} 狭軌 (3ft6in/​1,067mm){}{BLACK}運用種別: {RED}特急/直流{}{}{BLACK}所属会社: {WHITE}国鉄 / JR {ORANGE}東海 {BLUE}西日本 {}{BLACK}塗装: {GOLD}各種 {GREEN}(換装可能){}
 
 
 # 485 Series
