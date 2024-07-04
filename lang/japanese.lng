@@ -691,7 +691,7 @@ DH_E851_DESC  :{BLACK}UIC:{GOLD} Bo-Bo-Bo{}{BLACK}Gauge:{GOLD} Narrow/Kyōki (3f
 JGR_40_DESC  :{BLACK}軌間:{GOLD} 狭軌 (3ft6in/​1,067mm){}{BLACK}運用種別: {SILVER}通勤/直流{}{}{BLACK}所属会社: {WHITE}鉄道省 / 国鉄{}
 
 # 52 Series 
-JGR_52_DESC  :{BLACK}軌間:{GOLD} 狭軌 (3ft6in/​1,067mm){}{BLACK}運用種別: {SILVER}特急/ 直流{}{}{BLACK}所属会社: {WHITE}鉄道省 / 国鉄{}{BLACK}Liveries: {GOLD}各種 {GREEN}(換装可能){}
+JGR_52_DESC  :{BLACK}軌間:{GOLD} 狭軌 (3ft6in/​1,067mm){}{BLACK}運用種別: {BLUE}急行/直流{}{}{BLACK}所属会社: {WHITE}鉄道省 / 国鉄{}{BLACK}Liveries: {GOLD}各種 {GREEN}(換装可能){}
 
 
 # Nade 6100 Series
